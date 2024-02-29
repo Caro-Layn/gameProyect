@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1709194041 source:d:\documentos\proyectos\visual studio\programación paralela\gameproject2\gameproject2\divide2\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	<algorithm>
+	<chrono>
+	<thread>
+	<future>
+	<cmath>
+	<cstdlib>
+	<numeric>
+
